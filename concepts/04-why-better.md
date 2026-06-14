@@ -1,9 +1,9 @@
-# Why CodeMind Is Better
+# Why WllmConcept Is Better
 <!-- concept: comparison -->
 
-## CodeMind vs Karpathy
+## WllmConcept vs Karpathy
 
-| Dimension | Karpathy | CodeMind | Why It Matters |
+| Dimension | Karpathy | WllmConcept | Why It Matters |
 |-----------|----------|----------|---------------|
 | Memory Types | 1 (semantic) | 5 (semantic, episodic, structural, causal, meta) | Different knowledge needs different treatment |
 | Temporal | No time awareness | Tracks changes over time | Code evolves; wiki must track evolution |
@@ -21,14 +21,14 @@
 **The Fundamental Difference:**
 
 Karpathy's wiki = **Library** (organized, cross-referenced, passive)
-CodeMind = **Brain** (perceives, learns, reasons, reflects, evolves)
+WllmConcept = **Brain** (perceives, learns, reasons, reflects, evolves)
 
 ---
 
-## CodeMind vs Current Coding Agents
+## WllmConcept vs Current Coding Agents
 
 ### Claude Code
-| Aspect | Claude Code | CodeMind |
+| Aspect | Claude Code | WllmConcept |
 |--------|------------|----------|
 | Memory | CLAUDE.md (flat file) | 5 structured memory systems |
 | Learning | None | Episodic + Meta memory |
@@ -37,7 +37,7 @@ CodeMind = **Brain** (perceives, learns, reasons, reflects, evolves)
 | Self-improvement | None | Reflection after every session |
 
 ### Cursor / Windsurf
-| Aspect | Cursor | CodeMind |
+| Aspect | Cursor | WllmConcept |
 |--------|--------|----------|
 | Memory | .cursorrules (static text) | Self-updating wiki |
 | Learning | None | Learns from debugging |
@@ -45,7 +45,7 @@ CodeMind = **Brain** (perceives, learns, reasons, reflects, evolves)
 | Rules | User writes manually | Agent maintains automatically |
 
 ### Aider
-| Aspect | Aider | CodeMind |
+| Aspect | Aider | WllmConcept |
 |--------|-------|----------|
 | Memory | Per-session only | Persistent across sessions |
 | Code understanding | Repo map (good) | Structural memory (better) |
@@ -53,7 +53,7 @@ CodeMind = **Brain** (perceives, learns, reasons, reflects, evolves)
 | Learning | None | Full learning system |
 
 ### Letta (MemGPT)
-| Aspect | Letta | CodeMind |
+| Aspect | Letta | WllmConcept |
 |--------|-------|----------|
 | Memory | Tiered (core, archival, recall) | 5 specialized types |
 | Code specific | Generic | Code-aware structural memory |

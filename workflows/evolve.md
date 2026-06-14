@@ -2,7 +2,7 @@
 <!-- workflow: evolve -->
 
 ## Purpose
-The agent learns from its experiences and improves itself. This is what makes CodeMind a BRAIN, not just a NOTEBOOK.
+The agent learns from its experiences and improves itself. This is what makes WllmConcept a BRAIN, not just a NOTEBOOK.
 
 ## When It Runs
 - After every significant coding session

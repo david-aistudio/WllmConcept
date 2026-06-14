@@ -4,8 +4,8 @@
 ## config.yaml
 
 ```yaml
-# .codemind/config.yaml
-# CodeMind Configuration
+# .wllmconcept/config.yaml
+# WllmConcept Configuration
 version: "1.0"
 
 # ─── Language ───────────────────────────────────────────
@@ -13,7 +13,7 @@ language: "en"  # en | id | zh | ja | ko
 
 # ─── Agent Identity ─────────────────────────────────────
 agent:
-  name: "CodeMind"
+  name: "WllmConcept"
   role: "Senior Developer & Knowledge Maintainer"
 
 # ─── Memory Settings ────────────────────────────────────

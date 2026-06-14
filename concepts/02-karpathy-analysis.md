@@ -96,7 +96,7 @@ Only one level of detail. Coding needs:
 We keep everything brilliant about Karpathy and fill every gap:
 
 ```
-Karpathy (keep)           CodeMind (add)
+Karpathy (keep)           WllmConcept (add)
 ─────────────────────     ─────────────────────────
 Semantic Memory      →    Semantic Memory (enhanced with confidence)
                      +    Episodic Memory (past sessions)

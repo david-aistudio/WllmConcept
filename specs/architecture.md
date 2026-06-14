@@ -4,7 +4,7 @@
 ## Directory Structure
 
 ```
-.codemind/
+.wllmconcept/
 ├── config.yaml                 # System configuration
 ├── schema.md                   # Wiki conventions and rules
 ├── purpose.md                  # Why this wiki exists
@@ -125,9 +125,9 @@ Session Ends → Extract Lessons
 ### With AI Coding Agents
 
 **Claude Code / Codex:**
-- Load `.codemind/schema.md` as system context
+- Load `.wllmconcept/schema.md` as system context
 - Expose wiki operations via MCP server
-- Use `.codemind/wiki/index.md` as navigation entry point
+- Use `.wllmconcept/wiki/index.md` as navigation entry point
 
 **Hermes Agent:**
 - Load as a skill (SKILL.md)
@@ -145,7 +145,7 @@ Session Ends → Extract Lessons
 - `post-merge` → trigger full lint
 
 **Obsidian:**
-- `.codemind/wiki/` is a valid Obsidian vault
+- `.wllmconcept/wiki/` is a valid Obsidian vault
 - [[wikilinks]] work natively
 - Graph view shows knowledge connections
 - Dataview plugin can query YAML frontmatter

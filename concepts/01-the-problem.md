@@ -51,7 +51,7 @@ Without persistent memory, the agent can't retain:
 
 A coding agent should think like a **senior developer on the team**:
 
-| Capability | Junior Dev | Senior Dev | Current Agent | CodeMind Agent |
+| Capability | Junior Dev | Senior Dev | Current Agent | WllmConcept Agent |
 |-----------|-----------|-----------|--------------|----------------|
 | Remembers past bugs | ❌ | ✅ | ❌ | ✅ |
 | Knows WHY code exists | ❌ | ✅ | ❌ | ✅ |

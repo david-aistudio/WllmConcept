@@ -1,4 +1,4 @@
-# Example: Debug Session with CodeMind
+# Example: Debug Session with WllmConcept
 <!-- example: debug-session -->
 
 ## Scenario
@@ -6,7 +6,7 @@ User reports: "I'm getting 401 errors randomly on the dashboard"
 
 ---
 
-## WITHOUT CodeMind (Current State)
+## WITHOUT WllmConcept (Current State)
 
 ```
 Session 1 (Day 1):
@@ -29,7 +29,7 @@ Session 2 (2 months later):
 
 ---
 
-## WITH CodeMind
+## WITH WllmConcept
 
 ### Session 1 (Day 1)
 

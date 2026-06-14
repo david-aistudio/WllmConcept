@@ -164,7 +164,7 @@ PERIODIC TASKS:
 After onboarding, the agent has:
 
 ```
-.codemind/
+.wllmconcept/
 ├── wiki/
 │   ├── index.md (38 pages cataloged)
 │   ├── overview.md (global summary)
